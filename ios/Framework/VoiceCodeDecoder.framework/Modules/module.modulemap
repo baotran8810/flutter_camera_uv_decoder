@@ -1,0 +1,6 @@
+framework module VoiceCodeDecoder {
+  umbrella header "VoiceCodeDecoder.h"
+
+  export *
+  module * { export * }
+}
